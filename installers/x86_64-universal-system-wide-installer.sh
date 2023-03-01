@@ -1,4 +1,6 @@
 #!/bin/bash
+
+sudo rm /usr/local/bin/nix-portable
 sudo wget -P /usr/local/bin https://github.com/DavHau/nix-portable/releases/download/v009/nix-portable
 sudo chmod a+x /usr/local/bin/nix-portable
 
