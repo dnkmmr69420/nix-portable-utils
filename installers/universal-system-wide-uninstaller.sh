@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Uninstalling nix-portable..."
+sudo echo "Uninstalling nix-portable..."
 sudo rm /usr/local/bin/nix-portable
 sudo rm /usr/local/bin/nix
 sudo rm /usr/local/bin/nix-shell
