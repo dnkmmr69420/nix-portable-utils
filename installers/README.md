@@ -3,6 +3,8 @@ Installers for the project [Nix Portable](https://github.com/DavHau/nix-portable
 
 The system wide installers installs nix portable to `/usr/local/bin` while user wide installers installs nix portable to `~/.local/bin`
 
+It gives you an option to create symlinks. When there are symlinks, you only got to type `nix` or `nix-shell`. If you don't have symlinks, you will have to type `nix-portable` before every nix related command. It is recomended to choose the create symlinks option.
+
 ## Installers
 
 ### System Wide Installers
