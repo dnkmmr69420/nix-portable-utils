@@ -1,6 +1,8 @@
 # Nix Portable Installers
 Installers for the project [Nix Portable](https://github.com/DavHau/nix-portable)
 
+The system wide installers installs nix portable to `/usr/local/bin` while user wide installers installs nix portable to `~/.local/bin`
+
 ## Installers
 
 ### System Wide Installers
