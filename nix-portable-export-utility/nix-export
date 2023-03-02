@@ -1,4 +1,5 @@
 #!/bin/bash
-sudo tee $2 <<EOF
+tee $2 <<EOF
 nix-shell -p --run "$1"
 EOF
+chmod a+x $2
