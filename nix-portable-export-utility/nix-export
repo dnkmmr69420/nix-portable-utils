@@ -1,0 +1,4 @@
+#!/bin/bash
+sudo tee $2 <<EOF
+nix-shell -p --run "$1"
+EOF
