@@ -13,3 +13,6 @@ nix-export ~/.nix-portable/bin/neofetch ~/.local/bin/neofetch
 this is what the contents in the newly created shortcut would be
 
 ```bash
+#!/bin/bash
+nix-shell -p --run /home/username/.nix-profile/bin/neofetch
+```
