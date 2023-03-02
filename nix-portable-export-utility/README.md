@@ -2,6 +2,8 @@
 
 ## About
 
+This is very buggy
+
 Nix portable export utility is a very simple bash script program that creates shortcuts to run commands through nix-shell
 
 This program is for [Nix Portable](https://github.com/DavHau/nix-portable) and [Nix Installers](https://github.com/dnkmmr69420/nix-portable-utils/tree/main/installers)
