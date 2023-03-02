@@ -12,7 +12,7 @@ An example would be
 nix-export ~/.nix-portable/bin/neofetch ~/.local/bin/neofetch
 ```
 
-this is what the contents in the newly created shortcut would be
+this is what the contents in the newly created shortcut would be. It is located at ~/.local/bin
 
 ```bash
 #!/bin/bash
