@@ -6,3 +6,6 @@ https://github.com/dnkmmr69420/nix-portable-utils/tree/main/installers
 
 ## nix portable export utility page
 https://github.com/dnkmmr69420/nix-portable-utils/tree/main/nix-portable-export-utility
+
+## nix-exec and nix-ls page
+https://github.com/dnkmmr69420/nix-portable-utils/tree/main/nix-exec-and-ls
