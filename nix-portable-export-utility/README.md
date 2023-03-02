@@ -6,7 +6,7 @@ Nix portable export utility is a very simple bash script program that creates sh
 
 This program is for [Nix Portable](https://github.com/DavHau/nix-portable) and [Nix Installers](https://github.com/dnkmmr69420/nix-portable-utils/tree/main/installers)
 
-This project depends on Nix Portable installed with [Nix Installers](https://github.com/dnkmmr69420/nix-portable-utils/tree/main/installers). If you don't use the installers, it won't work.
+This project depends on [Nix Portable](https://github.com/DavHau/nix-portable) installed with [Nix Installers](https://github.com/dnkmmr69420/nix-portable-utils/tree/main/installers). If you don't use the installers, it won't work.
 
 To use it you type `nix-export` command location-of-shortcut
 
