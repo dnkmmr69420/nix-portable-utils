@@ -12,3 +12,4 @@ sudo rm /usr/local/bin/nix-copy-closure
 sudo rm /usr/local/bin/nix-hash
 sudo rm /usr/local/bin/nix-instantiate
 sudo rm /usr/local/bin/nix-prefetch-url
+sudo echo "Uninstalled nix-portable"
