@@ -3,6 +3,7 @@
 They are two very simple programs. nix-exec runs programs from ~/.nix-profile/bin while nix-ls lists everything in ~/.nix-profile/bin
 
 This project depends on installing [Nix Portable](https://github.com/DavHau/nix-portable) with [Nix Installers](https://github.com/dnkmmr69420/nix-portable-utils/tree/main/installers)
+
 Example
 
 ```bash
