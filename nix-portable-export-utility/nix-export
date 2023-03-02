@@ -1,5 +1,5 @@
 #!/bin/bash
 tee $2 <<EOF
-nix-shell -p --run "$1"
+nix-shell -p --run $1
 EOF
 chmod a+x $2
