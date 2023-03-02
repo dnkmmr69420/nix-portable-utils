@@ -1,0 +1,6 @@
+#!/bin/bash
+tee $2 <<EOF
+#!/bin/bash
+nix-shell -p --run $1
+EOF
+chmod a+x $2
