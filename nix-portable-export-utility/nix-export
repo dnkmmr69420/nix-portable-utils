@@ -1,0 +1,5 @@
+#!/bin/bash
+rm $2
+echo #!/bin/bash >> $2
+echo nix-shell -p --run $1 '$1' '$2' '$3' '$4' '$5' >> $2
+chmod a+x $2
