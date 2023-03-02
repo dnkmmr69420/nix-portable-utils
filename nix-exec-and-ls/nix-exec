@@ -1,2 +1,2 @@
 #!/bin/bash
-nix-shell -p --run ~/.nix-profile/bin/$1
+nix-shell -p --run "~/.nix-profile/bin/$1 $2 $3 $4 $5"
