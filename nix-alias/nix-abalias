@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "alias $1='nix-abexec $2'" >> ~/.config/nix-alias
+echo "alias $2='nix-abexec $1'" >> ~/.config/nix-alias
