@@ -1,5 +1,7 @@
 # Nix Portable Export Utility
 
+# Warning: Very Buggy
+
 ## About
 
 This is very buggy
