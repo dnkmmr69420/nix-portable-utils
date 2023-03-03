@@ -6,7 +6,7 @@ System wide installers installs to /usr/local/bin while user wide installers ins
 ## nix portable installers page
 https://github.com/dnkmmr69420/nix-portable-utils/tree/main/installers
 
-## nix ls utility page
+## nix alias utility page
 https://github.com/dnkmmr69420/nix-portable-utils/tree/main/nix-alias
 
 ## nix-exec and nix-ls page
