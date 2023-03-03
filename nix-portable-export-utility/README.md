@@ -1,6 +1,6 @@
 # Nix Portable Export Utility
 
-# Warning: Very Buggy
+# Warning: DO NOT USE. THIS DOES NOT WORK THAT WELL. USE [NIX-ALIAS](https://github.com/dnkmmr69420/nix-portable-utils/tree/main/nix-alias) INSTEAD
 
 ## About
 
