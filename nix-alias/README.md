@@ -10,6 +10,18 @@ If you use something other than bash, put this at the end of the rc or type this
 source ~/.config/nix-alias
 ```
 
+nix-alias example of use
+
+```bash
+nix-alias neofetch neofetch
+```
+
+nix-abalias example of use
+
+```bash
+nix-abalias ~/.nix-profile/bin/neofetch neofetch
+```
+
 aliases are stored in `~/.config/nix-alias`
 
 ## Installers
