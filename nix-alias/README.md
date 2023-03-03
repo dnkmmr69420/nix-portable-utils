@@ -22,7 +22,7 @@ nix-abalias example of use
 nix-abalias ~/.nix-profile/bin/neofetch neofetch
 ```
 
-aliases are stored in `~/.config/nix-alias`
+Aliases are stored in `~/.config/nix-alias`. You can edit the file to remove them (which is the only way) or even add aliases manually.
 
 ## Installers
 
