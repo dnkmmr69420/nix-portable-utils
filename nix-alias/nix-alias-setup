@@ -1,0 +1,10 @@
+#!/bin/bash
+FILE=~/.config/nix-alias-setup
+if [ -f "$FILE" ]; then
+    echo "nix-alias setup has already ben done"
+else 
+    echo "setting up nix-alias"
+    echo "source ~/.config/nix-alias" >> ~/.bashrc
+    echo "nix has been setup" >> ~/.config/nix-alias-setup
+    echo "nix-alias has been set up"
+fi
