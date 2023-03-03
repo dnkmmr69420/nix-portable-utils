@@ -7,7 +7,12 @@ This project depends on installing [Nix Portable](https://github.com/DavHau/nix-
 Example
 
 ```bash
-nix-exec neofetch
+nix-exec neofetch --help
+```
+nix-abexec example
+
+```bash
+nix-abexec ~/.nix-profile/bin/neofetch --help
 ```
 
 ## Installers
