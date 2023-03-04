@@ -1,0 +1,4 @@
+#!/bin/bash
+echo setting up nix
+source /etc/nix-setup.conf
+echo finnishing setting up nix
