@@ -1,4 +1,9 @@
 #!/bin/bash
-echo setting up nix
-source /etc/nix-setup.conf
-echo finnishing setting up nix
+FILE=/etc/nix-setup.conf
+if [ -f "$FILE" ]; then
+    echo "setting up nix-portable"
+    source /etc/nix-setup.conf
+    echo "finished setting up nix"
+else 
+    echo "/etc/nix-setup.conf does not exist. Create /etc/nix-setup.conf if you want nix-setup to work."
+fi
