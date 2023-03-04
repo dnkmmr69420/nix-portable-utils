@@ -1,7 +1,7 @@
 #!/bin/bash
 FILE=/etc/nix-setup.conf
 if [ -f "$FILE" ]; then
-    echo "reading /etc/nix-setup.conf and setting up nix-portable"
+    echo "reading /etc/nix-setup.conf and setting up nix-portable..."
     source /etc/nix-setup.conf
     echo "finished setting up nix"
 else 
