@@ -11,3 +11,6 @@ https://github.com/dnkmmr69420/nix-portable-utils/tree/main/nix-alias
 
 ## nix-exec and nix-ls page
 https://github.com/dnkmmr69420/nix-portable-utils/tree/main/nix-exec-and-ls
+
+## nix-setup page
+https://github.com/dnkmmr69420/nix-portable-utils/tree/main/nix-setup
