@@ -8,7 +8,7 @@ Source:    https://github.com/dnkmmr69420/nix-portable-utils/releases/download/s
 BuildArch: x86_64
 
 %description
-A demo RPM build
+nix portable rpm
 
 %prep
 %setup -q
@@ -16,7 +16,7 @@ A demo RPM build
 %install
 rm -rf $RPM_BUILD_ROOT
 mkdir -p $RPM_BUILD_ROOT/%{_bindir}
-cp %{name}.sh $RPM_BUILD_ROOT/%{_bindir}
+cp %{name} $RPM_BUILD_ROOT/%{_bindir}
 
 %clean
 rm -rf $RPM_BUILD_ROOT
