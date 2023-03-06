@@ -1,5 +1,4 @@
 Name:      nix-portable
-Version:   009
 Release:   %autorelease
 Summary:   Nix portable package manager
 License:   MIT
