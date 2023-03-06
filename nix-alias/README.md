@@ -4,7 +4,13 @@ creates aliases that launch commands in [nix-portable](https://github.com/DavHau
 
 it won't work unless you have [Nix installers](https://github.com/dnkmmr69420/nix-portable-utils/tree/main/installers) and [nix-exec and nix-ls](https://github.com/dnkmmr69420/nix-portable-utils/tree/main/nix-exec-and-ls)
 
-If you use something other than bash, put this at the end of the rc or type this in the shell
+this command adds `source ~/.config/nix-alias` to the end of `.bashrc`
+
+```bash
+nix-alias-setup
+```
+
+If you use something other than bash, put this at the end of the rc for it to be permanate or type this in the shell for it to stick for the shell session
 
 ```bash
 source ~/.config/nix-alias
