@@ -1,10 +1,7 @@
 # Nix Portable Export Utility
 
-# Warning: DO NOT USE. THIS DOES NOT WORK THAT WELL. USE [NIX-ALIAS](https://github.com/dnkmmr69420/nix-portable-utils/tree/main/nix-alias) INSTEAD
-
 ## About
 
-This is very buggy
 
 Nix portable export utility is a very simple bash script program that creates shortcuts to run commands through nix-shell
 
